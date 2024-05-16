@@ -1,0 +1,9 @@
+1,Black Panther: Wakanda Forever,Action/Adventure/Drama,2022,PG-13,170.31
+2,Doctor Strange in the Multiverse of Madness,Action/Adventure/Fantasy,2022,PG-13,160.55
+3,Thor: Love and Thuder,Action/Adventure/Comedy,2022,PG-13,165.23
+4,Minions: The Rise of Gru,Animation/Adventure/Comedy,2022,PG,160.67
+5,Sita Ramam,Action/Drama/Mystery,2022,PG-13,160.42
+6,Brahmastra Part One: Shiva,Action/Adventure/Fantasy,2022,PG-13,165.22
+7,The Batman,Action/Crime/Drama,2022,PG-13,170.98
+8,Avatar: The Way of Water,Action/Adventure/Fantasy,2022,PG-13,175.44
+9,Black Adam,Action/Adventure/Fantasy,2022,PG-13,165.67
